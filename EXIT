@@ -1,0 +1,35 @@
+[33mcommit 2379c189925bfc3ed1f12c708d1205eb0129f061[m
+Author: mortenso <spencer.mortenson@gmail.com>
+Date:   Wed Jun 22 21:25:51 2016 +0000
+
+    Layout updates
+
+[33mcommit 99bd7742804684bd8820da893c669a6dbbb1a815[m
+Author: mortenso <spencer.mortenson@gmail.com>
+Date:   Wed Jun 22 20:35:18 2016 +0000
+
+    devise styling
+
+[33mcommit f9da4c274f342cacf22f62f25b5fc96a34a5a30e[m
+Author: mortenso <spencer.mortenson@gmail.com>
+Date:   Wed Jun 22 20:26:16 2016 +0000
+
+    confirmable addition to devise
+
+[33mcommit 0efb224c9f10b11e01f256df56ee3d89b4650612[m
+Author: mortenso <spencer.mortenson@gmail.com>
+Date:   Wed Jun 22 18:57:35 2016 +0000
+
+    generate skeleton app
+
+[33mcommit 0253467977906d412e9b7a78c139aebb6b1d3d0d[m
+Author: mortenso <spencer.mortenson@gmail.com>
+Date:   Wed Jun 22 18:45:53 2016 +0000
+
+    GemFile updates
+
+[33mcommit 0a06bae410bbe86c136b07abf5c1d8a21cab98b8[m
+Author: mortenso <spencer.mortenson@gmail.com>
+Date:   Wed Jun 22 18:42:15 2016 +0000
+
+    Initial commit
