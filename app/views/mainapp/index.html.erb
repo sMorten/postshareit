@@ -2,27 +2,16 @@
 
 <div class="container">
   <div class="row">
+    <% for app in ["Ads","Share Pages","Settings"] %>
     <div class="col-md-4 centered">
-      <div class="sidenavhead">
-        <h2>Navigation</h2>
-      </div>
-      <div class ="sidenavel">
-        <h3>Ads</h3>
-      </div>
-        <div class ="sidenavel">
-        <h3>Posts</h3>
-      </div>
-      <div class ="sidenavel">
-        <h3>Share</h3>
-      </div>
-
-    </div>
-      <div class="col-md-8 controlbody">
-      <div class="controlhead">
-        <h1>Welcome to PostShareIt</h1>
-       </div>
+      <div class="mainappapp centered">
+          <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/app-store-icon.png" class="mainappimage">
+        <p class="mainappdesc"><%= app %> </p>
 
       </div>
+
+      </div>
+    <% end %>
 
 
   </div>
